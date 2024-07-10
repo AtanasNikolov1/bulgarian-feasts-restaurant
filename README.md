@@ -1,2 +1,2 @@
-# bulgarian-feasts-restaurant-app
+# bulgarian-feasts-restaurant
 Bulgarian Feasts Restaurant App
